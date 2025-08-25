@@ -3,8 +3,8 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function HomeScreen() {
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Hello World!</Text>
-      <Text style={styles.subtitle}>Welcome to my first React Native app</Text>
+      <Text style={styles.title}>hello seattle</Text>
+      <Text style={styles.subtitle}>hello seattle</Text>
     </View>
   );
 }
